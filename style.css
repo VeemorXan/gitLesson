@@ -1,0 +1,11 @@
+section {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    width: 1120px;
+    height: 500px;
+}
+
+body {
+    background-color: antiquewhite;
+}
